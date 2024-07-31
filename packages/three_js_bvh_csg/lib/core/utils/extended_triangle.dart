@@ -1,4 +1,3 @@
-
 import 'package:three_js_bvh_csg/core/utils/seperating_axis_bounds.dart';
 import 'package:three_js_math/three_js_math.dart';
 

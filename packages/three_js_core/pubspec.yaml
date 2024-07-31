@@ -11,7 +11,11 @@ dependencies:
   flutter:
     sdk: flutter
   logger: ^2.3.0
-  three_js_math: ^0.0.2
+  flutter_angle:
+    git:
+      url: https://github.com/Knightro63/flutter_angle.git
+  three_js_math:
+    path: ../three_js_math
 
 dev_dependencies:
   flutter_test:
